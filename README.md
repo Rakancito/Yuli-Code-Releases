@@ -1,9 +1,9 @@
-# Yuli Code — Descargas
+# Yuli Code — Downloads
 
-**Yuli Code** es un IDE de escritorio donde la IA trabaja contigo sin quitarte el control. Gratis durante la BETA.
+**Yuli Code** is a desktop IDE where AI works with you without taking control away. Free during the BETA.
 
-- 🌐 Sitio: **[yuliforge.com](https://yuliforge.com)**
-- 📚 Documentación: [yuliforge.com/docs](https://yuliforge.com/docs)
-- ⬇️ Descargas: [Releases](../../releases/latest)
+- 🌐 Website: **[yuliforge.com](https://yuliforge.com)**
+- 📚 Documentation: [yuliforge.com/docs](https://yuliforge.com/docs)
+- ⬇️ Downloads: [Releases](../../releases/latest)
 
-Este repositorio solo distribuye los binarios publicados con su SHA-256; no contiene código fuente.
+This repository only distributes published binaries with their SHA-256; it contains no source code.
